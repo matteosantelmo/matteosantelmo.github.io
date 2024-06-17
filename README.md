@@ -1,3 +1,20 @@
-# Matteo Santelmo
-> Ciao! I'm Matteo, MSc student in Data Science at EPFL and Research Scholar at LSIR (Distributed Information Systems Laboratory).
-> I'm passionate about Machine and Deep Learning, expecially in the field of Natural Language Processing, and currently I'm exploring Reinforcement Learning as well!
+# Matteo Santelmo's Portfolio
+
+This is the source code for my personal portfolio website. It showcases my projects and provides information about me.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## How to Run Locally
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/matteo-portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd matteo-portfolio
+    ```
+3. Open `index.html` in your favorite browser to view the website.
